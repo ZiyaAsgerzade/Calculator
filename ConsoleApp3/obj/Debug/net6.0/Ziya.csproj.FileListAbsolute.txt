@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\Ziya.exe
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\Ziya.deps.json
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\Ziya.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\Ziya.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\Ziya.pdb
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\Ziya.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.pdb
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\Ziya.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\Ziya.dll
